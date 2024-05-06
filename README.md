@@ -1,4 +1,4 @@
-#My Personal Website
+#My  Website
 Description
 Website features are clean and interface designed to make tracking your avilability information for  easy and convenient.
 
@@ -8,6 +8,7 @@ Access of the website from any device, including desktop computers, laptops, tab
 
 
 #Technology used
+
 HTML
 
 CSS
